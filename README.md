@@ -48,7 +48,7 @@ npm run dev
 
 ### Let't connect
 
-- [LinkedIn] (www.linkedin.com/in/fahimnirjon04)
+- [LinkedIn](www.linkedin.com/in/fahimnirjon04)
 
 - [Facebook]
 - [Twitter]
