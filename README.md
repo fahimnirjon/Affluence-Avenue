@@ -44,11 +44,11 @@ npm run dev
 
 ## Hello
 
-### I'm 
+### I'm Fahim Nirjon
 
 ### Let't connect
 
-- [LinkedIn]
+- [LinkedIn] (www.linkedin.com/in/fahimnirjon04)
 
 - [Facebook]
 - [Twitter]
